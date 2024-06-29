@@ -1,5 +1,4 @@
 # Projeto_Zero_Cancela
-# O Zero Cancela
 
 ## Descrição
 Este projeto em Python implementa um jogo interativo chamado "O Zero Cancela". O jogo permite ao usuário somar números digitados enquanto segue algumas regras específicas sobre o uso do número zero.
